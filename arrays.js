@@ -26,6 +26,7 @@ return array
 }
 
 function accessElementInArray(array, index){
+<<<<<<< HEAD
 return array[1,2,3,2];
 
 }
@@ -58,4 +59,10 @@ return array.slice(0,array.length-1);
 
 
 
+=======
+  return element[0];
+}
+
+
+>>>>>>> 7c2dcf2426a25974fcecc61cf047a92ab015a930
 
